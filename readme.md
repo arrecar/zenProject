@@ -1,0 +1,1 @@
+The readme.pdf file doesn't open in VS Code for me, so I included a .png screenshot of it named readme_screenshot.png (Matthias)
